@@ -51,8 +51,8 @@ This is the Screenshot of the projects a made!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-ping-coming-soon-page-made-with-html-css-and-javascript-a-WF2oAoJk)
+- Live Site URL: [live site URL here](https://fem-ping-coming-soon-page-pink.vercel.app/)
 
 ## My process
 
